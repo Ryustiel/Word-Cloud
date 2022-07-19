@@ -1,0 +1,1 @@
+﻿{'fogg': 670, 'passepartout': 437, 'phileas': 316, 'vous': 283, 'cette': 277, 'heures': 243, 'avec': 218, 'répondit': 214, 'tout': 196, 'bien': 192, 'deux': 142, 'elle': 140, 'monsieur': 138, 'aouda': 136, 'aprés': 130, 'quelques': 126, 'méme': 119, 'maétre': 117, 'donc': 114, 'dont': 114, 'nous': 114} (10 min)
