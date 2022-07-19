@@ -1,0 +1,7 @@
+Here is the content of file "Title.txt"
+
+You can place any text file in the /texts folder located in your FindWord package.
+Its text will be displayed here and a new cloud will be generated out of it, using your current settings.
+
+J'écris un texte moche parce que les textes moches c'est des textes moches et que ça doit être rempli avec plein de mots moches qui se répètent pour que mon truc qui différencie les mots se rende comtpe qu'il y a plein de mots dans ce texte moche.
+
